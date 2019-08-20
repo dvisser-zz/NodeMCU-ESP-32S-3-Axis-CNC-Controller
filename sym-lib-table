@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name NodeMCU-ESP-32S-Trinamic-CNC-rescue)(type Legacy)(uri "${KIPRJMOD}/NodeMCU ESP-32S Trinamic CNC-rescue.lib")(options "")(descr ""))
+  (lib (name LTC2644)(type Legacy)(uri ${KIPRJMOD}/LTC2644.lib)(options "")(descr ""))
+  (lib (name NodeMCU_ESP-32S_Trinamic_CNC-cache)(type Legacy)(uri "${KIPRJMOD}/NodeMCU ESP-32S Trinamic CNC-cache.lib")(options "")(descr ""))
+  (lib (name NodeMCU_ESP-32S_Trinamic_CNC-rescue)(type Legacy)(uri "${KIPRJMOD}/NodeMCU ESP-32S Trinamic CNC-rescue.lib")(options "")(descr ""))
+  (lib (name NodeMCU_ESP-32S)(type Legacy)(uri "${KIPRJMOD}/NodeMCU ESP-32S.lib")(options "")(descr ""))
+  (lib (name TEN_6-2411N)(type Legacy)(uri "${KIPRJMOD}/TEN 6-2411N.lib")(options "")(descr ""))
+  (lib (name TMC5160_SilentStepStick)(type Legacy)(uri "${KIPRJMOD}/TMC5160 SilentStepStick.lib")(options "")(descr ""))
+)
