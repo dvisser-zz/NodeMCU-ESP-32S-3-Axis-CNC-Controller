@@ -15,7 +15,7 @@
 - Multiple spindle control options 
   - 3.3V PWM output
   - 0-5V analog DC output
-  - 0-10V analog DC output
+  - 0-10V analog DC output (op-amp buffered)
   - 3.3V spindle enable binary output (works with 5v logic VFD binary inputs as well)
 - Z Probe input (3.3V logic level)
 - All screw terminals are 5.08mm pitch for reliability and durability
