@@ -1,29 +1,71 @@
-6264867513747
-Custom Footprints
-NodeMCUESP-32S
-
+150353698372431
+Arduino_Library
+Arduino_101_Shield
+https://store.arduino.cc/genuino-101
 
 0
 38
 38
-Custom Footprints
-SRM-1C-SL-5VDC
+Arduino_Library
+Arduino_Due_Shield
+https://store.arduino.cc/arduino-due
+
+0
+92
+91
+Arduino_Library
+Arduino_Leonardo_Shield
+https://store.arduino.cc/arduino-leonardo-with-headers
+
+0
+38
+37
+Arduino_Library
+Arduino_Mega2560_Shield
+https://store.arduino.cc/arduino-mega-2560-rev3
+
+0
+92
+91
+Arduino_Library
+Arduino_Micro_Socket
+https://store.arduino.cc/arduino-micro
+
+0
+34
+32
+Arduino_Library
+Arduino_Mini_Socket
+https://store.arduino.cc/arduino-mini-05
+
+0
+35
+35
+Arduino_Library
+Arduino_Nano_Socket
+https://store.arduino.cc/arduino-nano
+
+0
+30
+30
+Arduino_Library
+Arduino_Pro_Mini_Socket
 
 
 0
-5
-5
-Custom Footprints
-TEN6-2411N
-
-
-0
-8
-8
-Custom Footprints
-TMC5160SilentStepStick
-
+35
+35
+Arduino_Library
+Arduino_Uno_Shield
+https://store.arduino.cc/arduino-uno-rev3
 
 0
-18
-18
+38
+37
+Arduino_Library
+Arduino_Zero_Shield
+https://store.arduino.cc/genuino-zero
+
+0
+38
+38
